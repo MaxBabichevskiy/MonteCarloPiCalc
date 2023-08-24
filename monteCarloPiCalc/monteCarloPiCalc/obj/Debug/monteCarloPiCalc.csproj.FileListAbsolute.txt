@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\bin\Debug\monteCarloPiCalc.exe.config
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\bin\Debug\monteCarloPiCalc.exe
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\bin\Debug\monteCarloPiCalc.pdb
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\obj\Debug\monteCarloPiCalc.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\obj\Debug\monteCarloPiCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\obj\Debug\monteCarloPiCalc.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\obj\Debug\monteCarloPiCalc.exe
+C:\Users\babic\source\repos\monteCarloPiCalc\monteCarloPiCalc\obj\Debug\monteCarloPiCalc.pdb

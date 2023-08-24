@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\bin\Debug\monteCarloClient.exe.config
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\bin\Debug\monteCarloClient.exe
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\bin\Debug\monteCarloClient.pdb
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\obj\Debug\monteCarloClient.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\obj\Debug\monteCarloClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\obj\Debug\monteCarloClient.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\obj\Debug\monteCarloClient.exe
+C:\Users\babic\source\repos\monteCarloClient\monteCarloClient\obj\Debug\monteCarloClient.pdb
